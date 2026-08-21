@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samruddhi Abhijit Mahale</h1>
 <h3 align="center">AI / ML | Software Developer | Computer Engineering Graduate</h3>
 
-- 🌱 I’m currently learning **Artificial intelligence and Machine Lea**
+- 🌱 I’m currently learning **Artificial intelligence and Machine Learning**
 
 - 💬 Ask me about **Computer Engineering graduate passionate about Artificial Intelligence and Software Development. Experienced in Python, Java, and Machine Learning concepts. Built projects like a Psychometric Test Analysis System using K-Means Clustering and a Face Detection System. Currently enhancing AI/ML skills through internship experience and continuous learning.**
 
